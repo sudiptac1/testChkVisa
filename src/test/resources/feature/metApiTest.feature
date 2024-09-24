@@ -10,3 +10,4 @@ Feature: Find the weather forecast for a location from Met Office DataPoint API
     Examples:
       | location |
       |  Croydon |
+
